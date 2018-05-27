@@ -1,0 +1,36 @@
+{
+    "Platinum":{
+        "sponsor1":{
+            "alttext":"sponsor1-border",
+            "imgsrc":"img/border2.png",
+            "imgmicro":"img/micro.png"
+        },
+        "sponsor2":{
+            "alttext":"sponso2-border",
+            "imgsrc":"img/border2.png",
+            "imgmicro":"img/micro.png"
+        },
+        "sponsor3":{
+            "alttext":"sponsor3-border",
+            "imgsrc":"img/border2.png",
+            "imgmicro":"img/micro.png"
+        }
+    },
+    "Gold":{
+        "sponsor1":{
+            "alttext":"sponsor1-border",
+            "imgsrc":"img/border2.png",
+            "imgmicro":"img/micro.png"
+        },
+        "sponsor2":{
+            "alttext":"sponso2-border",
+            "imgsrc":"img/border2.png",
+            "imgmicro":"img/micro.png"
+        },
+        "sponsor3":{
+            "alttext":"sponsor3-border",
+            "imgsrc":"img/border2.png",
+            "imgmicro":"img/micro.png"
+        }
+    }
+}
